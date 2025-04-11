@@ -22,8 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR <br />
-          Ci CD is working done by Atharva
+          Edit <code>src/App.jsx</code> and save to test HMR <br /> CICD is working done by Atharva
         </p>
       </div>
       <p className="read-the-docs">
